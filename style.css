@@ -257,7 +257,7 @@ body {
 .container2 {
   display: inline-block;
   position: relative;
-  right: -331px;
+  right: 20px;
   top: -325px;
 }
 
@@ -286,15 +286,15 @@ body {
   border-radius: 300px 300px 0 0;
   display: inline-block;
   float: right;
-  margin-top: -600px;
-  margin-right: -710px;
+  margin-top: -850px;
+  margin-right: -300px;
 }
 
 .text-section {
   display: inline-block;
 }
 
-@media (max-width: 1792px) {
+@media (max-width: 1388px) {
   .text-section {
     display: block;
   }
